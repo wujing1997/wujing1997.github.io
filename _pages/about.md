@@ -16,8 +16,7 @@ redirect_from:
   {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
   <span class='anchor' id='about-me'></span>
-
-  I am **Huang Yu** (黄宇), a graduate student in the **College of Computer Science and Software Engineering** at Hohai University (2025 enrollment, Electronic Information major).
+I am **Huang Yu** (黄宇), a graduate student in the **College of Computer Science and Software Engineering** at Hohai University (2025 enrollment, Electronic Information major).
 
   My research interests mainly focus on **Model Based Optimization**, **LLM**.
 
