@@ -1,1 +1,7 @@
-# wujing1997.github.io
+# 👋 你好，我是张三！
+
+**一个热爱代码与咖啡的全栈开发者 ☕**
+
+- 🌱 正在学习 Rust 和 Web3
+- 💼 专注于构建高效、优雅的 Web 应用
+- 📫 联系我: zhangsan@email.com
