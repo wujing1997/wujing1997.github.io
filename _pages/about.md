@@ -24,13 +24,13 @@ My research interests mainly focus on **Model Based Optimization**, **LLM**.
 
 
 
-  🔥 News
+# 🔥 News
 
   - *2025.09*: &nbsp;I was admitted to the College of Computer Science and Software Engineering, Hohai University as a graduate student.
   - *2024.06*:  I graduated from **Shanghai Maritime University** (上海海事大学).
 
 
-  📖 Educations
+# 📖 Educations
 
   - *2025.09 - Present*, Graduate Student (Electronic Information Major) | College of Computer Science and Software Engineering, Hohai University
   - *2020.09 - 2024.06*, Undergraduate Student | Shanghai Maritime University
